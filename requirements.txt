@@ -79,7 +79,7 @@ instructor==1.7.2
 ipython==9.0.0
 ipython_pygments_lexers==1.1.1
 jedi==0.19.2
-Jinja2==3.1.5
+Jinja2==3.1.6
 jiter==0.8.2
 json5==0.10.0
 json_repair==0.39.1
