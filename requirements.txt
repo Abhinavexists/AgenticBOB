@@ -145,7 +145,7 @@ posthog==3.18.0
 prompt_toolkit==3.0.50
 propcache==0.3.0
 proto-plus==1.26.0
-protobuf==5.29.3
+protobuf==5.29.5
 ptyprocess==0.7.0
 pure_eval==0.2.3
 pyarrow==19.0.1
